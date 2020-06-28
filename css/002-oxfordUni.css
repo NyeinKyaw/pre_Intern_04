@@ -1,0 +1,50 @@
+header{
+    width: 102%;
+    height: 15%;
+    margin-left: -15px;
+    display: flex;
+    background-color: rgb(133, 56, 206);
+}
+
+hr{
+    background-color: black; 
+    height: 0.5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li{
+    list-style-type: none;
+    float: left;
+    padding: 15px 20px;
+}
+
+ol li{
+    list-style-type: none;
+    float: left;
+    padding: 15px 20px;
+}
+
+.center{
+    padding: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.navbar{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+footer{
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    top: 100%;
+    margin-left: -15px;
+    width: 102%;
+}
